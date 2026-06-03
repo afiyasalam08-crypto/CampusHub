@@ -96,15 +96,17 @@ The primary objective of CampusHub is to improve campus communication, student e
 
 ---
 
-🎯 Target Audience
+## 🎯 Target Audience
 
 CampusHub is designed for:
 
-- Students
-- Student Clubs and Communities
-- College Administrators
-- Academic Departments
-- Educational Institutions
+* Students
+* Student Clubs and Communities
+* College Administrators
+* Academic Departments
+* Educational Institutions
+
+---
 
 ## 🔄 System Workflow
 
@@ -128,6 +130,25 @@ Student Profile
  ▼
 CGPA Calculator
 ```
+
+---
+
+## 🔮 Future Enhancements
+
+CampusHub is designed with scalability in mind and can be extended with several advanced features, including:
+
+* Real-time notifications and announcements
+* Cloud-based document and notes storage
+* Student-to-student messaging system
+* Placement and internship portal
+* Attendance and academic tracking
+* Resume builder and career guidance tools
+* Faculty and administrator dashboards
+* AI-powered academic assistant
+* Mobile application support
+* Advanced analytics and reporting system
+
+These enhancements will transform CampusHub into a comprehensive campus management ecosystem capable of serving the evolving needs of educational institutions and students.
 
 ---
 
