@@ -96,6 +96,16 @@ The primary objective of CampusHub is to improve campus communication, student e
 
 ---
 
+🎯 Target Audience
+
+CampusHub is designed for:
+
+- Students
+- Student Clubs and Communities
+- College Administrators
+- Academic Departments
+- Educational Institutions
+
 ## 🔄 System Workflow
 
 ```text
